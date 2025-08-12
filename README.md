@@ -1,4 +1,63 @@
-<!-- DEFCON Header -->
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=renmeii&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renmeii&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renmeii/renmeii/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renmeii/renmeii/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/renmeii/renmeii/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/lchaye">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lchaye&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="500" src="https://files.catbox.moe/a7w617.gif"  />
+</div>
+
+
+
+
+
 ![Matrix Rain](https://i.giphy.com/media/q1MeAPDDMb43K/giphy.webp)  
 [![Track Me](https://img.shields.io/badge/GHOST_PROTOCOL-ACTIVE-red?style=flat&logo=linux&logoColor=white)]()
 
