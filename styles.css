@@ -1,0 +1,6 @@
+
+.glitch {
+  text-shadow: 0.05em 0 0 #ff5555, -0.05em -0.025em 0 #5555ff;
+  animation: glitch 500ms infinite;
+}
+@keyframes glitch { 50% { text-shadow: -0.05em 0 0 #ff5555, 0.025em 0 0 #5555ff; } }
