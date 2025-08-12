@@ -29,6 +29,7 @@
 ###
 
 <div align="center">
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=62628251047296730" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
   <img height="500" src="https://files.catbox.moe/a7w617.gif"  />
 </div>
 
@@ -36,7 +37,7 @@
 
 
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=62628251047296730" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
+
 [![Track Me](https://img.shields.io/badge/GHOST_PROTOCOL-ACTIVE-red?style=flat&logo=linux&logoColor=white)]()
 
 > whoami  
