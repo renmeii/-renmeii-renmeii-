@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <iframe width="800" height="500" src="https://assets.pinterest.com/ext/embed.html?id=62628251047296730"></iframe>
+  <iframe width="800" height="500" src="https://assets.pinterest.com/ext/embed.html?id=62628251047296730"></iframe> />
   <img height="500" src="https://files.catbox.moe/a7w617.gif"/>
 </div>
 
