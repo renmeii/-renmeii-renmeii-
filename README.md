@@ -38,7 +38,7 @@
 
 
 [![Track Me](https://img.shields.io/badge/GHOST_PROTOCOL-ACTIVE-red?style=flat&logo=linux&logoColor=white)]()
-  <iframe width="800" height="500" src="https://i.pinimg.com/originals/e6/86/a3/e686a3a650869d17ed75158b788af2d2.gif"></iframe> 
+  <iframe width="800" height="500" src="https://i.pinimg.com/originals/e6/86/a3/e686a3a650869d17ed75158b788af2d2.gif"</iframe> 
 > whoami  
 > [REDACTED] | THEY/HEX | PWNER OF REALITIES  
 
