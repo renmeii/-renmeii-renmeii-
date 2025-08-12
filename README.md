@@ -29,8 +29,8 @@
 ###
 
 <div align="center">
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=62628251047296730" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
-  <img height="500" src="https://files.catbox.moe/a7w617.gif"  />
+  <img height="500" src="https://assets.pinterest.com/ext/embed.html?id=62628251047296730"/>
+  <img height="500" src="https://files.catbox.moe/a7w617.gif"/>
 </div>
 
 
