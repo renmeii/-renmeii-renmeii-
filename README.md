@@ -20,6 +20,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=renmeii&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=renmeii&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <iframe width="800" height="500" src="https://assets.pinterest.com/ext/embed.html?id=62628251047296730"></iframe> 
 </div>
 
 ###
@@ -38,7 +39,9 @@
 
 
 [![Track Me](https://img.shields.io/badge/GHOST_PROTOCOL-ACTIVE-red?style=flat&logo=linux&logoColor=white)]()
-  <iframe width="800" height="500" src="https://assets.pinterest.com/ext/embed.html?id=62628251047296730"></iframe> 
+
+
+  
 > whoami  
 > [REDACTED] | THEY/HEX | PWNER OF REALITIES  
 
