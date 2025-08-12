@@ -28,25 +28,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renmeii/renmeii/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renmeii/renmeii/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/renmeii/renmeii/output/pacman-contribution-graph.svg">
-</picture>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/lchaye">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lchaye&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 ###
 
@@ -58,7 +40,7 @@
 
 
 
-![Matrix Rain](https://i.giphy.com/media/q1MeAPDDMb43K/giphy.webp)  
+![Matrix Rain](https://assets.pinterest.com/ext/embed.html?id=3588874696876791)  
 [![Track Me](https://img.shields.io/badge/GHOST_PROTOCOL-ACTIVE-red?style=flat&logo=linux&logoColor=white)]()
 
 > whoami  
